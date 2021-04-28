@@ -1,3 +1,5 @@
+    文件：work/index.js
+    
     打捞一个漂流瓶
     METHOD: GET
     localhost:3000/?user=kk&type=female
